@@ -92,7 +92,7 @@ spotify-african-music-unsupervised/
 │
 └── dataset.csv                         # Not included — download from Kaggle
 
-# Key Findings**
+## Key Findings
 
 **PCA (Principal Component Analysis)**
 The 10 audio features successfully reduced to 6 principal components that explain 83.6% of the musical variance.
