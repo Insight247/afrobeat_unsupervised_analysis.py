@@ -1,8 +1,8 @@
 # 🌍 Where Does Afrobeats Sit in the Global Music Landscape?
 ### An Unsupervised Machine Learning Deep Dive into African Music
 
-![Hero Visual: t-SNE Map](outputs/11_tsne_african_hero.png<img width="1290" height="889" alt="image" src="https://github.com/user-attachments/assets/4afef083-7445-4d1a-8e22-d0bd4e7d6cd7" />
-)
+<img width="1290" height="889" alt="image" src="https://github.com/user-attachments/assets/4afef083-7445-4d1a-8e22-d0bd4e7d6cd7" />
+
 *(Above: A t-SNE projection mapping 114,000 global tracks. The dense cluster of colored points highlights the distinct sonic island of African music against the global gray backdrop.)*
 
 ---
